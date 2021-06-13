@@ -1,0 +1,14 @@
+#!/bin/sh
+
+# Shows volumeicon which allows to use the fn keys
+sleep 1 &&
+volumeicon &
+
+# IceWM default battery icons doesn't work so using this one
+# Also the fn brightness now work
+sleep 1 &&
+xfce4-power-manager &
+
+# Turns on desktop icons and wallpaper without having separate software for it
+sleep 1 &&
+pcmanfm --desktop &

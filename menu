@@ -1,0 +1,12 @@
+prog "Terminal" terminal x-terminal-emulator
+prog "Firefox" firefox-esr firefox-esr
+prog "File Manager" folder pcmanfm
+separator
+menu "Graphical" folder {
+     prog "Gimp" gimp gimp
+}
+menu "Editors" folder {
+     prog "Vim" vim vim
+     prog "Emacs" emacs emacs
+     prog "VSCode" code code
+}

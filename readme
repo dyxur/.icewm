@@ -1,0 +1,27 @@
+IceMatcha is a port of the Matcha theme for IceWM,these colors are available with their light and dark variants
+
+Azul
+Aliz
+Sea
+
+--------------instalation----------------
+
+copy the folder on 
+
+/usr/share/icewm/themes/
+
+or in this another folder
+
+/home/"username"/.icewm/themes/
+
+these packages are not necessary for the operation of IceMint, but I recommend installing them:
+
+matcha-gtk-theme
+lxappearance(to set the Matcha GTK theme)
+
+the installation of these packages may vary depending on your distribution
+
+
+
+
+----ItzSelenux

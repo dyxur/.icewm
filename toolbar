@@ -1,0 +1,6 @@
+prog "Terminal" terminal x-terminal-emulator
+prog "Browser" firefox-esr firefox
+prog "PCmanFM" folder pcmanfm
+prog "VSCode" code code
+
+separator

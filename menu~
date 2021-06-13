@@ -1,0 +1,7 @@
+prog "Terminal" terminal x-terminal-emulator
+prog "Firefox" firefox-esr firefox-esr
+prog "File Manager" folder pcmanfm
+separator
+menu "Graphical" folder {
+
+}
