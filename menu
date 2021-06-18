@@ -1,5 +1,5 @@
-prog "Terminal" terminal x-terminal-emulator
-prog "Firefox" firefox-esr firefox-esr
+prog "Terminal" terminal sakura
+prog "Firefox" firefox-esr firefox
 prog "File Manager" folder pcmanfm
 separator
 menu "Graphical" folder {
@@ -10,3 +10,5 @@ menu "Editors" folder {
      prog "Emacs" emacs emacs
      prog "VSCode" code code
 }
+separator
+includeprog icewm-menu-fdo --sep-before --no-sep-others
